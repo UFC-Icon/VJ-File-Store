@@ -1,3 +1,8 @@
+# Don't Remove Credit Tg - @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Ask Doubt on telegram @KingVJ01
+
+
 import re
 import os
 from os import environ
@@ -76,5 +81,3 @@ if 'DYNO' in environ:
 else:
     ON_HEROKU = False
 URL = environ.get("URL", "")
-
-
